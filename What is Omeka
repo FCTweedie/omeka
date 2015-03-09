@@ -1,0 +1,29 @@
+# What is Omeka
+
+Omeka is a content management system and web-publishing system that allows users to organise and share a research collection.
+It was particularly designed to help small galleries and museums to share their collections, so it handles images really well.
+Omeka is a [Swahili](http://swahili_english.enacademic.com/11461/omeka) word meaning to display goods or wares, and that's what you're doing, when you make items public.
+
+When you create your Omeka site, you should be aware if you're using Omeka's own hosting via [Omeka.net](omeka.net) or whether your institution is hosting its own instance.
+If you create a free account at Omeka.net, you'll have less storage and access to fewer customisation options than if you download
+Omeka from [Omeka.org](omeka.org) and host it yourself. This workshop will assume that you're using an Omeka.net account.
+
+## Why Omeka?
+Lots of researchers, particularly in the Humanities and Social Science (HASS) start organising their research collections in a 
+spreadsheet like Excel or in tables in a Word document. Sometimes these will do the job for you, but if you have a large collection,
+images, long text descriptions, or want to be able to relate items in multiple ways, these options quickly become problematic. 
+
+**Omeka might be right for you if...**
+* You want to organise and display a collection of items (these can be physical objects but can also be places, people, or events)
+* You want to manage a lot of information about those items
+* You have a lot of text in your fields
+* You want to be able to relate your items to each other
+
+
+**Omeka might not be your best option if...**
+* You want a website with text and a few pictures. There are blogging platforms that will probably do this job for you better.
+* You want to be able to do complex, custom queries. If you want a lot of sophistication in your queries, you might need a more powerful database
+
+# Components in Omeka
+
+# Organising your data
