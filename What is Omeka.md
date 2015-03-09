@@ -25,7 +25,8 @@ images, long text descriptions, or want to be able to relate items in multiple w
 * You want to be able to do complex, custom queries. If you want a lot of sophistication in your queries, you might need a more powerful database.
 
 # Components in Omeka
-You'll need to understand the following terms to organise your collection in Omeka effectively. 
+You'll need to understand the following terms to organise your collection in Omeka effectively.
+
 **Item** This is the basic component of Omeka. Items may be objects, people or places. Items are described by *metadata* (more on this below) 
 Omeka also lets you add a *type*, such as object, still image, person, or event to items. You can create your own item types to suit your needs.
 You can attach files, such as images or recordings, to items. Note you can attach multiple files to one item record.
