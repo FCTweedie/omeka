@@ -15,3 +15,6 @@ By the end of the workshop, participants should:
 * Understand how to structure a research collection in order to draw connections between items
 * Understand how elements in Omeka relate to each other
 * Be able to add items to Omeka, describe them and share them
+
+**Credits**
+This workshop draws on [Up and Running with Omeka.net](http://programminghistorian.org/lessons/up-and-running-with-omeka) from *The Programmming Historian* by Miriam Posner and [Introduction to Omeka - Lesson Plan](amandafrench.net/2013/11/12/introduction-to-omeka-lesson-plan) by Amanda French
