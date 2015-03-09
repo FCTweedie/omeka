@@ -41,7 +41,9 @@ Visitors to your exhibit can click on an item and access its full record. Exhibi
 
 ## Exercise
 In small groups, discuss with your neighbours whether you think each of the following would be an *item*, a *metadata field* a *collection* or a *tag* within Omeka.
+
 There are multiple options, depending on how you want to use your Omeka. 
+
 * The person the Roman Emperor Augustus
 * A picture of a statue of Augustus
 * A picture of an incription commemorating Augustus' victory at the Battle of Actium in 31 BCE
@@ -49,7 +51,9 @@ There are multiple options, depending on how you want to use your Omeka.
 * The event 'The Battle of Actium', in which Augustus defeated Cleopatra
 * The year 31 BCE
 * A poem by the Roman poet Horace commemorating Augustus' victory at Actium and the suicide of the Egyptian Queen Cleopatra
-* A picture of an Egyptian coin depicting Cleopatra
+* A picture of a coin from Judea depicting Cleopatra
+ 
+![Image of Augustus](https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Statue-Augustus.jpg/320px-Statue-Augustus.jpg) ![Coin of Cleopatra](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Cleopatra_VII_tetradrachm_Ascalon_mint.jpg/250px-Cleopatra_VII_tetradrachm_Ascalon_mint.jpg)
 
 Suggestions: A political historian, principally interested in events, might make Augustus and Cleopatra items (people) and attach the pictures of the statue and coin to these items as files.
 The inscription and poem could also be items, with the image and transcription attached as files. Key terms from the text could be added into the metadata.
@@ -62,3 +66,33 @@ The text of the inscription might form part of the item's metadata, as might '31
 These are only two suggestions and, as you can see, there are a lot of possibilities and no single right anwser!
 
 # Organising your data
+
+As you've seen from the exercise, there are a lot of possible ways to structure your collection. The way in which you organise it will be influenced by the questions you want to ask. We're spending a bit of time on this before we get into Omeka itself because it's important. Getting into a project and finding that your data is structured incorrectly is really frustrating.
+
+## Metadata
+
+Metadata can be described as 'data about data'. For instance, it's all the information about a book that goes into a lbrary record, such as the author's name and the date and place of publication, that will help you to identify it. Omeka uses **Dublin Core Metadata**, which means that it uses a particular set of agreed terms to describe items in a collection. Using standardised metadata is useful as it will make it easier to cross-reference your collection with other collections or migrate your collection to a different platform.
+
+There are 15 fields in Dublin Core Metadata. They are:
+* Title
+* Date
+* Subject
+* Description
+* Creator
+* Source
+* Publisher
+* Contributor
+* Rights
+* Relation
+* Language
+* Type
+* Format
+* Identifier
+* Coverage
+
+There's an explanation of the information each of these fields is intended to contain on the [Dublin Core](http://dublincore.org/documents/dces) website. You might not find all of them useful, depending on your collection. Types have additional metadata - for instance *Person* has fields for dates of birth and death and occupation.
+
+## Exercise
+Using the sticky notes provided, brainstorm the items that you think you'll put into your collection. Once you've got at least 12, start to arrange them into groups according to whether they are going to be an item, a collection or a tag just like you did in the first exercise. Plan the metadata you're going to need as well. How can you use each field to make sure that you get as much useful information as possible attached to each item and *this is really important* how the metadata will help you to draw links within your collection. 
+
+**Note** Omeka will let you create multiple entries in each metadata field. This means that you could have two dates for an artefact - when it was created and when it was excavated. Just be sure that you're consistent about which dates you use and how you order them.
