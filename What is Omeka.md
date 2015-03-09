@@ -51,11 +51,13 @@ There are multiple options, depending on how you want to use your Omeka.
 * A picture of an Egyptian coin depicting Cleopatra
 
 Suggestions: A political historian, principally interested in events, might make Augustus and Cleopatra items (people) and attach the pictures of the statue and coin to these items as files.
-The inscription and poem could also be items, with the image and full text atached as a files. Key terms from the text could be added into the metadata.
-'Actium' may be a tag that links Augustus, Cleopatra, the inscription and the poem.
+The inscription and poem could also be items, with the image and transcription attached as files. Key terms from the text could be added into the metadata.
+'Actium' may be a tag that links Augustus, Cleopatra, the inscription and the poem. Actium might also be an item in its own right (event) and the year 31 BCE would form part of its metadata.
 
-Alternatively, an art historian may be more interested in the physical artefacts, and make the statue, the incription, and the coin items, with the files attached.
+Alternatively, an art historian may be more interested in the physical artefacts, and make the statue, the incription, and the coin items, with the image files attached.
 They could be placed respectively into collections 'Augustus' for the statue and inscription and 'Cleopatra' for the coin.
-The text of the inscription, the 
+The text of the inscription might form part of the item's metadata, as might '31 BCE' and 'Actium'.    
+
+These are only two suggestions and, as you can see, there are a lot of possibilities and no single right anwser!
 
 # Organising your data
