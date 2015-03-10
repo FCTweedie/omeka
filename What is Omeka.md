@@ -92,7 +92,7 @@ There are 15 fields in Dublin Core Metadata. They are:
 
 There's an explanation of the information each of these fields is intended to contain on the [Dublin Core](http://dublincore.org/documents/dces) website. You might not find all of them useful, depending on your collection. Types have additional metadata - for instance *Person* has fields for dates of birth and death and occupation.
 
-![image of Octavia](http://commons.wikimedia.org/wiki/File:8106_-_Roma_-_Ara_Pacis_-_Ottavia_Minore_-_Foto_Giovanni_Dall%27Orto_-_30-Mar-2008.jpg#mediaviewer/File:8106_-_Roma_-_Ara_Pacis_-_Ottavia_Minore_-_Foto_Giovanni_Dall%27Orto_-_30-Mar-2008.jpg)
+![image of Octavia](http://upload.wikimedia.org/wikipedia/commons/thumb/7/71/8106_-_Roma_-_Ara_Pacis_-_Ottavia_Minore_-_Foto_Giovanni_Dall%27Orto_-_30-Mar-2008.jpg/308px-8106_-_Roma_-_Ara_Pacis_-_Ottavia_Minore_-_Foto_Giovanni_Dall%27Orto_-_30-Mar-2008.jpg)
 
 Is this Octavia, a portrait of Octavia or a photo of a portrait of Octavia? Which you choose will depend on your research questions.
 
