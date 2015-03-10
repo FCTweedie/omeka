@@ -2,7 +2,7 @@
 
 Now that you've thought about how to organise your data usefully, it's time to get started with Omeka itself. 
 
-### Signing up
+#### Signing up
 The first step is to sign up for an account. Go to [Omeka.net](omeka.net) and sign up. Choose the free, basic plan, which lets you create one site and gives you 500 MB of storage.
 
 When you sign up, you'll be prompted for a username, password and email address. Once you've supplied these details, you'll be emailed a link to activate your account. 
@@ -15,7 +15,7 @@ You can see how much of your storage you have used, edit your personal informati
 ## Adding content
 Click on 'manage site' from the dashboard. This will take you to the interface where you can start adding content.
 
-### Exercise - Add an item
+#### Exercise - Add an item
 Add an item to your Omeka
 Describe it with metadata
 Attach a file to your item
