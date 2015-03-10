@@ -16,10 +16,22 @@ You can see how much of your storage you have used, edit your personal informati
 Click on 'manage site' from the dashboard. This will take you to the interface where you can start adding content.
 
 #### Exercise - Add an item
-Add an item to your Omeka
-Describe it with metadata
-Attach a file to your item
-Choose whether it is public or not (items are private by default)
+* Add an item to your Omeka
+* Describe it with metadata - use both the Dublin Core and Item Type metadata
+* Attach a file to your item
+* Choose whether it is public or not (items are private by default)
+* Choose whether it is a 'featured' item (this means it will be displayed prominently on your site)
+* Save by clicking Add Item
+ 
+And that's your first item!
+
+Please note
+You can add multiple entries for each metadata field by clicking 'Add Input' 
+You can add multiple files to an item (but be sure that they really do relate to the same item)
+
+Item types
+Omeka comes with a number of pre-set Item Types. If none of them is applicable to your collection, you can add a new one by clicking on 'Add an Item Type' 
+You can also customise the Item Type metadata by clicking Edit. From this page, you can add custom comments and new elements.
 
 ## Customising
 
