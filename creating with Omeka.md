@@ -86,7 +86,10 @@ Use tags to add keywords to items. You can use tags to help draw connections bet
 You can tag items as you add them or you can assign tags to multiple items at once by selecting them from the Item menu and clicking edit.
 
 #### Build an exhibit
+Once you have install the Exhibit Builder plugin, click on 'Exhibits' and start creating!
+First, you'll be prompted for some information about your exhibit. 'Slug' is the exhibit name as it will show up in the URL, in the format sitename.omeka.net/exhibits/show/slug
 
+Once you've added this basic information, start adding pages to your exhibition. You'll be prompted for a page title and slug again, and then you can start adding items. Choose a layout for each block. You'll have space to add narrative or explanatory text to each item, as well as a caption. There's a basic WYSIWYG editor, or you can edit the HTML if you feel confident to do so. You can re-order the blocks on a page once you get underway. Visitors to your exhibit will be able to see your items arranged in an exhibit and click on each item to view its full record.
 
 ## Advanced uses - using Settings
 The Settings tab lets you make some some further customisations to your Omeka. The **General** tab lets you change your email address and site name, as well as some basic information about your site.
@@ -101,6 +104,7 @@ Omeka doesn't permit you to edit the Dublin Core Metadata fields for the good re
 There are a number of ways to get content out of Omeka. You can delete single items from the Items menu, or use the bulk edit function to delete multiple items.
 If you imported the items from a csv, the 'Status' tab of the CSV Import menu has the option to undo an upload, which will remove the contents of a whole csv.
 If you want to move the contents of your small Omeka.net site over to another Omeka instance (for example, if your institution offers a hosted version), install the 'Omeka API Import' plugin. You can then migrate all your data over to your new site.
+It is also possible to export items as xml or json.
 
 
 ### Final Challenge
