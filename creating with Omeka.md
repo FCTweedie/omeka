@@ -66,12 +66,25 @@ By default, you're the only user on your Omeka and you have super powers (no, re
 #### Plugins
 Omeka is highly customisable by means of plugins. You get a few choices with your free account. 
 Go to the **Plugins** tab and install the CSV Import and Exhibit Builder plugins
-Add plugins
-Upload a csv
+
+**Importing a CSV**
+Once you have installed the CSV Import plugin, you can import a csv into Omeka.
+Each line in the csv will be one item in your Omeka. You'll map the column headings in the csv to the metadata fields in Omeka. You can apply one Dublin Core metadata field to more than one column (for example, you can have two 'description' fields). 
+
+You need to make sure that any custom metadata fields that you want to use have been created *before* you start importing your csv. It's not possible to create additional metadata fields once you have started importing your CSV. 
 
 ## Organising your items
-Add items to a collection
-Build an exhibit
+
+#### Collections
+You can group items in Omeka into Collections. Each item may belong to only one collection. 
+You can create collections from the collections tab in your dashboard. Omeka will prompt you to provide metadata about your collection. 
+
+You can assign items to a collection as you add them or you can move items into a collection in bulk. Once you have created your collection, click the checkboxes next to the items you wish to add in the 'Items' menu. Click on the Edit button, and then select the collection to which you're adding your items from the dropdown menu in the next screen. You can change the type and visibility of items and assign tags to multiple items using this technique.
+
+#### Tags
+
+
+#### Build an exhibit
 
 ## Advanced uses - using Settings
 Site information
@@ -79,6 +92,16 @@ Customise search
 Customise metadata
 Use the API
 Leave Omeka
+
+### Final Challenge
+* Inspect the provided csv and create any additional metadata fields that you will need in order to import it
+* Import the csv into your Omeka
+* Add the items into two collections
+* Tag the items with at least four tags
+* Add image files to the items
+* Build an exhibit displaying a selection of items from each collection
+* Enable search by tag
+
 
 
 
