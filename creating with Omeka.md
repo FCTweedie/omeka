@@ -82,16 +82,26 @@ You can create collections from the collections tab in your dashboard. Omeka wil
 You can assign items to a collection as you add them or you can move items into a collection in bulk. Once you have created your collection, click the checkboxes next to the items you wish to add in the 'Items' menu. Click on the Edit button, and then select the collection to which you're adding your items from the dropdown menu in the next screen. You can change the type and visibility of items and assign tags to multiple items using this technique.
 
 #### Tags
-
+Use tags to add keywords to items. You can use tags to help draw connections between items in different collections. Unlike the core metadata, which conforms to a standard and can't be edited, tags are entirely up to you.
+You can tag items as you add them or you can assign tags to multiple items at once by selecting them from the Item menu and clicking edit.
 
 #### Build an exhibit
 
+
 ## Advanced uses - using Settings
-Site information
-Customise search
-Customise metadata
-Use the API
-Leave Omeka
+The Settings tab lets you make some some further customisations to your Omeka. The **General** tab lets you change your email address and site name, as well as some basic information about your site.
+
+#### Search
+The Search tab lets you choose which types of records will be searchable in Omeka. If you change the types of records that are searchable, you'll need to click the 'Index Records' button, so that search within your site updates to your new preferences.
+
+#### Element sets
+Omeka doesn't permit you to edit the Dublin Core Metadata fields for the good reason that, once you edited them, they would no longer comply with the international standard. You can, however, change the order in which the elements display by dragging and dropping so that the ones you use most are at the top. You can also add custom comments to each element by clicking on the arrow at the end of the end of each element. Similarly, you can add your own descriptions to the item-type metadata from the **Item Type Elements** tab.
+
+#### Leave Omeka
+There are a number of ways to get content out of Omeka. You can delete single items from the Items menu, or use the bulk edit function to delete multiple items.
+If you imported the items from a csv, the 'Status' tab of the CSV Import menu has the option to undo an upload, which will remove the contents of a whole csv.
+If you want to move the contents of your small Omeka.net site over to another Omeka instance (for example, if your institution offers a hosted version), install the 'Omeka API Import' plugin. You can then migrate all your data over to your new site.
+
 
 ### Final Challenge
 * Inspect the provided csv and create any additional metadata fields that you will need in order to import it
