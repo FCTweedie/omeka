@@ -2,14 +2,15 @@
 
 Now that you've thought about how to organise your data usefully, it's time to get started with Omeka itself. 
 
-**Signing up**
+### Sign Up
 The first step is to sign up for an account. Go to [Omeka.net](omeka.net) and sign up. Choose the free, basic plan, which lets you create one site and gives you 500 MB of storage.
-![screenshot free account](https://github.com/FCTweedie/omeka/blob/master/Omeka%20Screenshots/signup.png)
+
+<img src="https://github.com/FCTweedie/omeka/blob/master/Omeka%20Screenshots/signup.png" alt="Signup screenshot" height="400" width="600" align="center"/>
 
 When you sign up, you'll be prompted for a username, password and email address. Once you've supplied these details, you'll be emailed a link to activate your account. 
 
 Clicking the link will take you to a dashboard for your new account. Click on 'Add a site' to start creating your Omeka site.
-![screenshot add site](https://github.com/FCTweedie/omeka/blob/master/Omeka%20Screenshots/add%20site.png)
+<div align="center"><img src="https://github.com/FCTweedie/omeka/blob/master/Omeka%20Screenshots/add%20site.png" alt="addsite" height="200" width="600"/></div>
 Give your site a name. It will have the format [name].omeka.net. You must use alphanumeric characters only - no special characters! Give it a title. The description field is optional. Once you've completed these details, you'll be taken to the dashboard for your account.
 
 You can see how much of your storage you have used, edit your personal information, change your password, upgrade your plan to add more sites or storage, and deactivate your account from the 'My Account' page. For now though, let's get started!
@@ -24,7 +25,9 @@ Click on 'manage site' from the dashboard. This will take you to the interface w
 * Choose whether it is public or not (items are private by default)
 * Choose whether it is a 'featured' item (this means it will be displayed prominently on your site)
 * Save by clicking Add Item
- 
+
+<img src="https://github.com/FCTweedie/omeka/blob/master/Omeka%20Screenshots/AddInput.png" alt="Screenshot add item" height="400" width="600"/>
+
 And that's your first item!
 
 *Please note*
@@ -42,6 +45,7 @@ You can customise the Item Type metadata by clicking Edit. From this page, you c
 Now you've got an item into Omeka and know how to describe it, it's time to take control of your Omeka! 
 
 Click on the name of your site in the top left of the menu bar to see what the front-end of your site looks like. Omeka comes with a number of pre-set themes, and the default one will be enabled. Now, go back to the dashboard and click on Appearance. You can pick from a few other themes that Omeka offers. 
+
 
 ### Exercise: Change and customise the theme
 * Change the theme
