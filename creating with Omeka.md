@@ -1,8 +1,8 @@
-# Getting set up with Omeka
+# Getting started with Omeka
 
 Now that you've thought about how to organise your data usefully, it's time to get started with Omeka itself. 
 
-#### Signing up
+**Signing up**
 The first step is to sign up for an account. Go to [Omeka.net](omeka.net) and sign up. Choose the free, basic plan, which lets you create one site and gives you 500 MB of storage.
 
 When you sign up, you'll be prompted for a username, password and email address. Once you've supplied these details, you'll be emailed a link to activate your account. 
@@ -15,7 +15,7 @@ You can see how much of your storage you have used, edit your personal informati
 ## Adding content
 Click on 'manage site' from the dashboard. This will take you to the interface where you can start adding content.
 
-#### Exercise - Add an item
+### Exercise - Add an item
 * Add an item to your Omeka
 * Describe it with metadata - use both the Dublin Core and Item Type metadata
 * Attach a file to your item
@@ -26,10 +26,8 @@ Click on 'manage site' from the dashboard. This will take you to the interface w
 And that's your first item!
 
 *Please note*
-
-You can add multiple entries for each metadata field by clicking 'Add Input' 
-
-You can add multiple files to an item (but be sure that they really do relate to the same item)
+* You can add multiple entries for each metadata field by clicking 'Add Input' 
+* You can add multiple files to an item (but be sure that they really do relate to the same item)
 
 **Item types**
 
@@ -39,11 +37,11 @@ You can customise the Item Type metadata by clicking Edit. From this page, you c
 
 ## Customising
 
-So now you've got an item into Omeka and know how to describe it. It's time to take control of your Omeka! 
+Now you've got an item into Omeka and know how to describe it, it's time to take control of your Omeka! 
 
 Click on the name of your site in the top left of the menu bar to see what the front-end of your site looks like. Omeka comes with a number of pre-set themes, and the default one will be enabled. Now, go back to the dashboard and click on Appearance. You can pick from a few other themes that Omeka offers. 
 
-#### Exercise: Change and customise the theme
+### Exercise: Change and customise the theme
 * Change the theme
 * Add content to your homepage
 * Add a navigation link
