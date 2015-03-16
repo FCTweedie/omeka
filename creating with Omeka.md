@@ -4,10 +4,12 @@ Now that you've thought about how to organise your data usefully, it's time to g
 
 **Signing up**
 The first step is to sign up for an account. Go to [Omeka.net](omeka.net) and sign up. Choose the free, basic plan, which lets you create one site and gives you 500 MB of storage.
+![screenshot free account](https://github.com/FCTweedie/omeka/blob/master/Omeka%20Screenshots/signup.png)
 
 When you sign up, you'll be prompted for a username, password and email address. Once you've supplied these details, you'll be emailed a link to activate your account. 
 
 Clicking the link will take you to a dashboard for your new account. Click on 'Add a site' to start creating your Omeka site.
+![screenshot add site](https://github.com/FCTweedie/omeka/blob/master/Omeka%20Screenshots/add%20site.png)
 Give your site a name. It will have the format [name].omeka.net. You must use alphanumeric characters only - no special characters! Give it a title. The description field is optional. Once you've completed these details, you'll be taken to the dashboard for your account.
 
 You can see how much of your storage you have used, edit your personal information, change your password, upgrade your plan to add more sites or storage, and deactivate your account from the 'My Account' page. For now though, let's get started!
