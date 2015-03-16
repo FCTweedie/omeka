@@ -1,4 +1,6 @@
-# What is Omeka
+# Omeka and Research Collections
+
+## What is Omeka
 
 Omeka is a content management system and web-publishing system that allows users to organise and share a research collection.
 It was particularly designed to help small galleries and museums to share their collections, so it handles images really well.
