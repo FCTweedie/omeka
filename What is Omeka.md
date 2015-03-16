@@ -19,12 +19,11 @@ images, long text descriptions, or want to be able to relate items in multiple w
 * You have a lot of text in your fields
 * You want to be able to relate your items to each other
 
-
 **Omeka might not be your best option if...**
 * You want a website with text and a few pictures. There are blogging platforms that will probably do this job for you better.
 * You want to be able to do complex, custom queries. If you want a lot of sophistication in your queries, you might need a more powerful database.
 
-# Components in Omeka
+## Components in Omeka
 You'll need to understand the following terms to organise your collection in Omeka effectively.
 
 **Item** This is the basic component of Omeka. Items may be objects, people or places. Items are described by *metadata* (more on this below) 
@@ -33,13 +32,13 @@ You can attach files, such as images or recordings, to items. Note you can attac
 
 **Collection** Items within Omeka can be grouped into collections. Each item may belong to only one collection.
 
-**Tags** You can use tags to draw connections between items. Tags are useful ways to relate items in different collections or to let you search for characteristics that don't form part of your metadata structure.
+**Tags** You can use tags to draw connections between items. Tags are useful ways to relate items in different collections or to let you search for characteristics that don't form part of your metadata structure. It can be useful to think of tags as keywords that describe items.
 
 **Exhibits** You can build *exhibits* of items and link them together with narrative or descriptive text for sharing.
 You can select a small number of items from your repository (potentially from different collections) and organise them into an exhibit.
 Visitors to your exhibit can click on an item and access its full record. Exhibits are made up of items that are grouped into pages (often with linking or explanatory text). Pages are then grouped into sections.
 
-## Exercise
+### Exercise
 In small groups, discuss with your neighbours whether you think each of the following would be an *item*, a *metadata field* a *collection* or a *tag* within Omeka.
 
 There are multiple options, depending on how you want to use your Omeka. 
@@ -90,13 +89,13 @@ There are 15 fields in Dublin Core Metadata. They are:
 * Identifier
 * Coverage
 
-There's an explanation of the information each of these fields is intended to contain on the [Dublin Core](http://dublincore.org/documents/dces) website. You might not find all of them useful, depending on your collection. Types have additional metadata - for instance *Person* has fields for dates of birth and death and occupation.
+There's an explanation of the information each of these fields is intended to contain on the [Dublin Core](http://dublincore.org/documents/dces) website. You might not find all of them useful, depending on your collection. Within Omeka, **Types** have additional metadata - for instance *Person* has fields for dates of birth and death and occupation.
 
 ![image of Octavia](http://upload.wikimedia.org/wikipedia/commons/thumb/7/71/8106_-_Roma_-_Ara_Pacis_-_Ottavia_Minore_-_Foto_Giovanni_Dall%27Orto_-_30-Mar-2008.jpg/308px-8106_-_Roma_-_Ara_Pacis_-_Ottavia_Minore_-_Foto_Giovanni_Dall%27Orto_-_30-Mar-2008.jpg)
 
-Is this Octavia, a portrait of Octavia or a photo of a portrait of Octavia? Which you choose will depend on your research questions.
+Is this Octavia, a portrait of Octavia, or a photo of a portrait of Octavia? Which you choose will depend on your research questions.
 
-## Exercise
-Using the sticky notes provided, brainstorm the items that you think you'll put into your collection. Once you've got at least 12, start to arrange them into groups according to whether they are going to be an item, a collection or a tag just like you did in the first exercise. Plan the metadata you're going to need as well. How can you use each field to make sure that you get as much useful information as possible attached to each item and *this is really important* how the metadata will help you to draw links within your collection. 
+### Exercise
+Using the sticky notes provided, brainstorm the items that you think you'll put into your collection. Once you've got at least 12, start to arrange them into groups according to whether they are going to be an item, a collection or a tag just like you did in the first exercise. Plan the metadata you're going to need as well. How can you use each field to make sure that you get as much useful information as possible attached to each item? *This is really important* ask yourself how the metadata will help you to draw links within your collection. 
 
 **Note** Omeka will let you create multiple entries in each metadata field. This means that you could have two dates for an artefact - when it was created and when it was excavated. Just be sure that you're consistent about which dates you use and how you order them.
