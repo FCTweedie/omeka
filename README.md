@@ -24,3 +24,5 @@ By the end of the workshop, participants should:
 **Credits**
 
 This workshop draws on [Up and Running with Omeka.net](http://programminghistorian.org/lessons/up-and-running-with-omeka) from *The Programming Historian* by Miriam Posner and [Introduction to Omeka - Lesson Plan](amandafrench.net/2013/11/12/introduction-to-omeka-lesson-plan) by Amanda French
+
+Omeka.org provides some really detailed help in its [Documentation](http://omeka.org/codex/Documentation) section and you can also find help in its [Forums](http://omeka.org/forums/)  
