@@ -94,8 +94,8 @@ There are 15 fields in Dublin Core Metadata. They are:
 There's an explanation of the information each of these fields is intended to contain on the [Dublin Core](http://dublincore.org/documents/dces) website. You might not find all of them useful, depending on your collection. Within Omeka, **Types** have additional metadata - for instance *Person* has fields for dates of birth and death and occupation.
 
 <div align="center"> 
-<img src="http://upload.wikimedia.org/wikipedia/commons/thumb/7/71/8106_-_Roma_-_Ara_Pacis_-_Ottavia_Minore_-_Foto_Giovanni_Dall%27Orto_-_30-Mar-2008.jpg/308px-8106_-_Roma_-_Ara_Pacis_-_Ottavia_Minore_-_Foto_Giovanni_Dall%27Orto_-_30-Mar-2008.jpg" alt="Octavia"/>
-</br>Is this Octavia, a portrait of Octavia, or a photo of a portrait of Octavia? Which you choose will depend on your research questions. </div>
+<img src="http://upload.wikimedia.org/wikipedia/commons/thumb/7/71/8106_-_Roma_-_Ara_Pacis_-_Ottavia_Minore_-_Foto_Giovanni_Dall%27Orto_-_30-Mar-2008.jpg/308px-8106_-_Roma_-_Ara_Pacis_-_Ottavia_Minore_-_Foto_Giovanni_Dall%27Orto_-_30-Mar-2008.jpg" alt="Octavia"/></div>
+<div align="center">Is this Octavia, a portrait of Octavia, or a photo of a portrait of Octavia? Which you choose will depend on your research questions. </div>
 
 ### Exercise
 Using the sticky notes provided, brainstorm the items that you think you'll put into your collection. Once you've got at least 12, start to arrange them into groups according to whether they are going to be an item, a collection or a tag just like you did in the first exercise. Plan the metadata you're going to need as well. How can you use each field to make sure that you get as much useful information as possible attached to each item? *This is really important* ask yourself how the metadata will help you to draw links within your collection. 
