@@ -5,7 +5,7 @@ Now that you've thought about how to organise your data usefully, it's time to g
 ### Sign Up
 The first step is to sign up for an account. Go to [Omeka.net](omeka.net) and sign up. Choose the free, basic plan, which lets you create one site and gives you 500 MB of storage.
 
-<img src="https://github.com/FCTweedie/omeka/blob/master/Omeka%20Screenshots/signup.png" alt="Signup screenshot" height="400" width="600" align="center"/>
+<div align="center"><img src="https://github.com/FCTweedie/omeka/blob/master/Omeka%20Screenshots/signup.png" alt="Signup screenshot" height="400" width="600"/></div>
 
 When you sign up, you'll be prompted for a username, password and email address. Once you've supplied these details, you'll be emailed a link to activate your account. 
 
@@ -26,7 +26,7 @@ Click on 'manage site' from the dashboard. This will take you to the interface w
 * Choose whether it is a 'featured' item (this means it will be displayed prominently on your site)
 * Save by clicking Add Item
 
-<img src="https://github.com/FCTweedie/omeka/blob/master/Omeka%20Screenshots/AddInput.png" alt="Screenshot add item" height="400" width="600"/>
+<div align="center"><img src="https://github.com/FCTweedie/omeka/blob/master/Omeka%20Screenshots/AddInput.png" alt="Screenshot add item" height="400" width="750"/></div>
 
 And that's your first item!
 
