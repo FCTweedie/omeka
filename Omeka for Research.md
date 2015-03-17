@@ -53,8 +53,8 @@ There are multiple options, depending on how you want to use your Omeka.
 * The year 31 BCE
 * A poem by the Roman poet Horace commemorating Augustus' victory at Actium and the suicide of the Egyptian Queen Cleopatra
 * A picture of a coin from Judea depicting Cleopatra
- 
-![Image of Augustus](https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Statue-Augustus.jpg/320px-Statue-Augustus.jpg) ![Coin of Cleopatra](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Cleopatra_VII_tetradrachm_Ascalon_mint.jpg/250px-Cleopatra_VII_tetradrachm_Ascalon_mint.jpg)
+<div align="center"> 
+![Image of Augustus](https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Statue-Augustus.jpg/320px-Statue-Augustus.jpg) ![Coin of Cleopatra](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Cleopatra_VII_tetradrachm_Ascalon_mint.jpg/250px-Cleopatra_VII_tetradrachm_Ascalon_mint.jpg)</div>
 
 Suggestions: A political historian, principally interested in events, might make Augustus and Cleopatra items (people) and attach the pictures of the statue and coin to these items as files.
 The inscription and poem could also be items, with the image and transcription attached as files. Key terms from the text could be added into the metadata.
@@ -92,10 +92,9 @@ There are 15 fields in Dublin Core Metadata. They are:
 * Coverage
 
 There's an explanation of the information each of these fields is intended to contain on the [Dublin Core](http://dublincore.org/documents/dces) website. You might not find all of them useful, depending on your collection. Within Omeka, **Types** have additional metadata - for instance *Person* has fields for dates of birth and death and occupation.
-
-![image of Octavia](http://upload.wikimedia.org/wikipedia/commons/thumb/7/71/8106_-_Roma_-_Ara_Pacis_-_Ottavia_Minore_-_Foto_Giovanni_Dall%27Orto_-_30-Mar-2008.jpg/308px-8106_-_Roma_-_Ara_Pacis_-_Ottavia_Minore_-_Foto_Giovanni_Dall%27Orto_-_30-Mar-2008.jpg)
-
-Is this Octavia, a portrait of Octavia, or a photo of a portrait of Octavia? Which you choose will depend on your research questions.
+<div align="center">
+<img src="http://upload.wikimedia.org/wikipedia/commons/thumb/7/71/8106_-_Roma_-_Ara_Pacis_-_Ottavia_Minore_-_Foto_Giovanni_Dall%27Orto_-_30-Mar-2008.jpg/308px-8106_-_Roma_-_Ara_Pacis_-_Ottavia_Minore_-_Foto_Giovanni_Dall%27Orto_-_30-Mar-2008.jpg" alt="Octavia"/>
+Is this Octavia, a portrait of Octavia, or a photo of a portrait of Octavia? Which you choose will depend on your research questions. </div>
 
 ### Exercise
 Using the sticky notes provided, brainstorm the items that you think you'll put into your collection. Once you've got at least 12, start to arrange them into groups according to whether they are going to be an item, a collection or a tag just like you did in the first exercise. Plan the metadata you're going to need as well. How can you use each field to make sure that you get as much useful information as possible attached to each item? *This is really important* ask yourself how the metadata will help you to draw links within your collection. 
