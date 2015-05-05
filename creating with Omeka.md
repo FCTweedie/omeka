@@ -26,7 +26,7 @@ Click on 'manage site' from the dashboard. This will take you to the interface w
 * Choose whether it is a 'featured' item (this means it will be displayed prominently on your site)
 * Save by clicking Add Item
 
-<div align="center"><img src="https://github.com/FCTweedie/omeka/blob/master/Omeka%20Screenshots/AddInput.png" alt="Screenshot add item" height="400" width="750"/></div>
+<div align="center"><img src="https://github.com/FCTweedie/omeka/blob/master/Omeka%20Screenshots/AddInput.png" alt="Screenshot add item" height="300" width="600"/></div>
 
 And that's your first item!
 
@@ -38,14 +38,19 @@ And that's your first item!
 
 Omeka comes with a number of pre-set Item Types. If none of them is applicable to your collection, you can add a new one by clicking on 'Add an Item Type'
 
+<div align="center"><img src="https://github.com/FCTweedie/omeka/blob/master/Omeka%20Screenshots/additem.png" alt="Item Type" height="200" width="600"/></div>
+
 You can customise the Item Type metadata by clicking Edit. From this page, you can add custom comments and new elements. You can also change the order in which the elements appear. Neat, eh?
 
 ## Customising
 
 Now you've got an item into Omeka and know how to describe it, it's time to take control of your Omeka! 
 
-Click on the name of your site in the top left of the menu bar to see what the front-end of your site looks like. Omeka comes with a number of pre-set themes, and the default one will be enabled. Now, go back to the dashboard and click on Appearance. You can pick from a few other themes that Omeka offers. 
+Click on the name of your site in the top left of the menu bar to see what the front-end of your site looks like. Omeka comes with a number of pre-set themes, and the default one will be enabled. 
 
+<div align="center"><img src="https://github.com/FCTweedie/omeka/blob/master/Omeka%20Screenshots/viewsite.png" alt="View Site" height="200" width="600"/></div>
+
+Now, go back to the dashboard and click on Appearance. You can pick from a few other themes that Omeka offers. 
 
 ### Exercise: Change and customise the theme
 * Change the theme
@@ -82,6 +87,8 @@ You need to make sure that any custom metadata fields that you want to use have 
 #### Collections
 You can group items in Omeka into Collections. Each item may belong to only one collection. 
 You can create collections from the collections tab in your dashboard. Omeka will prompt you to provide metadata about your collection. 
+
+
 
 You can assign items to a collection as you add them or you can move items into a collection in bulk. Once you have created your collection, click the checkboxes next to the items you wish to add in the 'Items' menu. Click on the Edit button, and then select the collection to which you're adding your items from the dropdown menu in the next screen. You can change the type and visibility of items and assign tags to multiple items using this technique.
 
