@@ -65,7 +65,6 @@ They could be placed respectively into collections 'Augustus' for the statue and
 The text of the inscription might form part of the item's metadata, as might '31 BCE' and 'Actium'.    
 
 These are only two suggestions and, as you can see, there are a lot of possibilities and no single right anwser!
-
 # Organising your data
 
 As you've seen from the exercise, there are a lot of possible ways to structure your collection. The way in which you organise it will be influenced by the questions you want to ask. We're spending a bit of time on this before we get into Omeka itself because it's important. Getting into a project and finding that your data is structured incorrectly is really frustrating.
@@ -97,7 +96,15 @@ There's an explanation of the information each of these fields is intended to co
 <img src="http://upload.wikimedia.org/wikipedia/commons/thumb/7/71/8106_-_Roma_-_Ara_Pacis_-_Ottavia_Minore_-_Foto_Giovanni_Dall%27Orto_-_30-Mar-2008.jpg/308px-8106_-_Roma_-_Ara_Pacis_-_Ottavia_Minore_-_Foto_Giovanni_Dall%27Orto_-_30-Mar-2008.jpg" alt="Octavia"/></div>
 <div align="center">Is this Octavia, a portrait of Octavia, or a photo of a portrait of Octavia? Which you choose will depend on your research questions. </div>
 
-### Exercise
-Using the sticky notes provided, brainstorm the items that you think you'll put into your collection. Once you've got at least 12, start to arrange them into groups according to whether they are going to be an item, a collection or a tag just like you did in the first exercise. Plan the metadata you're going to need as well. How can you use each field to make sure that you get as much useful information as possible attached to each item? *This is really important* ask yourself how the metadata will help you to draw links within your collection. 
+### Exercise - Bag of Thingies
+Take the items in the collection that the trainer has given you. In small groups think about how you would sort them. What sort of metadata will you apply? How will you group them into collections? What tags will you use? It's really important to think about how you will organise your data before you start building your Omeka.
+Possible metadata includes:
+* Colour
+* Size
+* Material
+* Texture
+
+<div align="center"> 
+<img src="https://farm5.staticflickr.com/4018/4676855235_8a03dba15d.jpg" alt="Craft Supplies"/></div>
 
 **Note** Omeka will let you create multiple entries in each metadata field. This means that you could have two dates for an artefact - when it was created and when it was excavated. Just be sure that you're consistent about which dates you use and how you order them.
