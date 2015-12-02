@@ -61,21 +61,21 @@ Now, go back to the dashboard and click on Appearance. You can pick from a few o
 
 Change the theme, then click on 'Configure Theme' for more options.
 
-<div align="center"><img src="https://github.com/FCTweedie/omeka/blob/master/OmekaScreenshots/theme.png" alt="Theme" height="200" width="600"/></div>
+<div align="center"><img src="https://github.com/FCTweedie/omeka/blob/master/OmekaScreenshots/theme.png" alt="Theme" height="300" width="600"/></div>
 
 The 'Themes' tab lets you customise the information that appears on your site, such as adding a logo, footer text, or licence information. If you've selected a *Featured Item* from among your items, you can choose to put it on the homepage of your site. Try changing a few things. If you have the front end view of your Omeka open in another tab, you can hit refresh once you've saved your changes to see how it looks.
 
-<div align="center"><img src="https://github.com/FCTweedie/omeka/blob/master/OmekaScreenshots/ConfigureTheme.png" alt="Theme" height="200" width="600"/></div>
+<div align="center"><img src="https://github.com/FCTweedie/omeka/blob/master/OmekaScreenshots/ConfigureTheme.png" alt="Configure Theme" height="300" width="600"/></div>
 
 The **Navigation** tab will let you change which search options appear on your site. You can add custom links to this section, to direct users to items or collections within your Omeka or to resources elsewhere on the web. Note you need the full url of any external page. You can set any of these Navigation links to be your homepage.
 
-<div align="center"><img src="https://github.com/FCTweedie/omeka/blob/master/OmekaScreenshots/Navigation.png" alt="Navigation" height="200" width="600"/></div>
+<div align="center"><img src="https://github.com/FCTweedie/omeka/blob/master/OmekaScreenshots/Navigation.png" alt="Navigation" height="300" width="600"/></div>
 
 The **Settings** tab will let you customise the size of your images and how they display. You can also choose to hide empty elements, so metadata fields you're not using don't show up.
 
 This will make more sense once you have more content in your site.
 
-<div align="center"><img src="https://github.com/FCTweedie/omeka/blob/master/OmekaScreenshots/settings.png" alt="Settings" height="200" width="600"/></div>
+<div align="center"><img src="https://github.com/FCTweedie/omeka/blob/master/OmekaScreenshots/settings.png" alt="Settings" height="300" width="600"/></div>
 
 #### Users
 By default, you're the only user on your Omeka and you have super powers (no, really!), meaning that you have full control of your site. You can choose to add new users if you want to invite a collaborator on your project. You can decide how much control to give them, from Super User, who can do everything, to contributor, who can only view your site without making changes.
@@ -105,7 +105,7 @@ You can tag items as you add them or you can assign tags to multiple items at on
 
 #### Build an exhibit
 Once you have install the Exhibit Builder plugin, click on 'Exhibits' and start creating!
-<div align="center"><img src="https://github.com/FCTweedie/omeka/blob/master/OmekaScreenshots/Exhibits.png" alt="Exhibits" height="200" width="600"/></div>
+<div align="center"><img src="https://github.com/FCTweedie/omeka/blob/master/OmekaScreenshots/Exhibits.png" alt="Exhibits" height="300" width="600"/></div>
 
 First, you'll be prompted for some information about your exhibit. 'Slug' is the exhibit name as it will show up in the URL, in the format sitename.omeka.net/exhibits/show/slug
 
@@ -114,7 +114,7 @@ Once you've added this basic information, start adding pages to your exhibition.
 ## Advanced uses - using Settings
 The Settings tab lets you make some some further customisations to your Omeka. The **General** tab lets you change your email address and site name, as well as some basic information about your site.
 
-<div align="center"><img src="https://github.com/FCTweedie/omeka/blob/master/OmekaScreenshots/GeneralSettings.png" alt="General Settings" height="200" width="600"/></div>
+<div align="center"><img src="https://github.com/FCTweedie/omeka/blob/master/OmekaScreenshots/GeneralSettings.png" alt="General Settings" height="250" width="600"/></div>
 
 #### Search
 The Search tab lets you choose which types of records will be searchable in Omeka. If you change the types of records that are searchable, you'll need to click the 'Index Records' button, so that search within your site updates to your new preferences.
