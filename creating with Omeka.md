@@ -75,7 +75,7 @@ The **Settings** tab will let you customise the size of your images and how they
 
 This will make more sense once you have more content in your site.
 
-<div align="center"><img src="https://github.com/FCTweedie/omeka/blob/master/OmekaScreenshots/settings.png" alt="Settings" height="350" width="600"/></div>
+<div align="center"><img src="https://github.com/FCTweedie/omeka/blob/master/OmekaScreenshots/settings.png" alt="Settings" height="350" width="550"/></div>
 
 #### Users
 By default, you're the only user on your Omeka and you have super powers (no, really!), meaning that you have full control of your site. You can choose to add new users if you want to invite a collaborator on your project. You can decide how much control to give them, from Super User, who can do everything, to contributor, who can only view your site without making changes.
