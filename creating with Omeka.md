@@ -65,11 +65,11 @@ Change the theme, then click on 'Configure Theme' for more options.
 
 The 'Themes' tab lets you customise the information that appears on your site, such as adding a logo, footer text, or licence information. If you've selected a *Featured Item* from among your items, you can choose to put it on the homepage of your site. Try changing a few things. If you have the front end view of your Omeka open in another tab, you can hit refresh once you've saved your changes to see how it looks.
 
-<div align="center"><img src="https://github.com/FCTweedie/omeka/blob/master/OmekaScreenshots/ConfigureTheme.png" alt="Configure Theme" height="320" width="600"/></div>
+<div align="center"><img src="https://github.com/FCTweedie/omeka/blob/master/OmekaScreenshots/ConfigureTheme.png" alt="Configure Theme" height="320" width="580"/></div>
 
 The **Navigation** tab will let you change which search options appear on your site. You can add custom links to this section, to direct users to items or collections within your Omeka or to resources elsewhere on the web. Note you need the full url of any external page. You can set any of these Navigation links to be your homepage.
 
-<div align="center"><img src="https://github.com/FCTweedie/omeka/blob/master/OmekaScreenshots/Navigation.png" alt="Navigation" height="330" width="600"/></div>
+<div align="center"><img src="https://github.com/FCTweedie/omeka/blob/master/OmekaScreenshots/Navigation.png" alt="Navigation" height="330" width="550"/></div>
 
 The **Settings** tab will let you customise the size of your images and how they display. You can also choose to hide empty elements, so metadata fields you're not using don't show up.
 
